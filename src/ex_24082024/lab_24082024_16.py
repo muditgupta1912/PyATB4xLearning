@@ -2,7 +2,7 @@
 # Function with Multiple Argument
 
 def print_argument(*args):
-    # *args means you can give multiple argument and there is no limit , and this is a list
+    # *args means you can give multiple argument and any type of data type argument! There is no limit , and this is a list!
     print(args[0])  # Here 0 means, it will print first argument.
 
 
